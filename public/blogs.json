@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/1Y5b3fJz/flat-lay-desktop-with-agenda-succulent-plant.jpg",
+    "title": "The Future of Web Design",
+    "author": "Alex Morgan",
+    "author_img": "https://example.com/authors/alex.jpg",
+    "posted_data": "2025-08-14",
+    "reading_time": 6,
+    "hashtags": ["webdesign", "uiux", "future", "technology"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/HpxV76qf/2148604883.jpg",
+    "title": "Understanding JavaScript Closures",
+    "author": "Jamie Lee",
+    "author_img": "https://example.com/authors/jamie.jpg",
+    "posted_data": "2025-07-29",
+    "reading_time": 8,
+    "hashtags": ["javascript", "closures", "programming", "frontend"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/Xrzc8FT7/2148604882.jpg",
+    "title": "A Beginner’s Guide to APIs",
+    "author": "Taylor Chen",
+    "author_img": "https://example.com/authors/taylor.jpg",
+    "posted_data": "2025-06-10",
+    "reading_time": 5,
+    "hashtags": ["api", "backend", "beginners", "development"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/chfmhvt7/2148630358.jpg",
+    "title": "Design Systems That Scale",
+    "author": "Riley Patel",
+    "author_img": "https://example.com/authors/riley.jpg",
+    "posted_data": "2025-05-22",
+    "reading_time": 7,
+    "hashtags": ["designsystems", "uiux", "scalability", "design"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/1Y5b3fJz/flat-lay-desktop-with-agenda-succulent-plant.jpg",
+    "title": "Improving App Performance",
+    "author": "Jordan Smith",
+    "author_img": "https://example.com/authors/jordan.jpg",
+    "posted_data": "2025-04-03",
+    "reading_time": 4,
+    "hashtags": ["performance", "optimization", "apps", "software"]
+  }
+]
